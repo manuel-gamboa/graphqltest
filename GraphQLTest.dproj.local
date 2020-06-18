@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+  <Transactions>
+    <Transaction>2020/06/17 19:31:19.376,=C:\Users\bambucoder\Documents\Embarcadero\Studio\Projects\Unit2.pas</Transaction>
+    <Transaction>2020/06/17 19:35:11.926,C:\Users\bambucoder\Documents\Embarcadero\Studio\Projects\graphQLTest\uMain.pas=C:\Users\bambucoder\Documents\Embarcadero\Studio\Projects\Unit2.pas</Transaction>
+    <Transaction>2020/06/17 19:35:11.926,C:\Users\bambucoder\Documents\Embarcadero\Studio\Projects\graphQLTest\uMain.dfm=C:\Users\bambucoder\Documents\Embarcadero\Studio\Projects\Unit2.dfm</Transaction>
+    <Transaction>2020/06/17 19:35:23.146,C:\Users\bambucoder\Documents\Embarcadero\Studio\Projects\graphQLTest\GraphQLTest.dproj=C:\Users\bambucoder\Documents\Embarcadero\Studio\Projects\Project3.dproj</Transaction>
+  </Transactions>
+</BorlandProject>
